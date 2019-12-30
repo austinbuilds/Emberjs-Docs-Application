@@ -32,16 +32,23 @@ NPM Scripts:
     "lint:js": "eslint .",
     "start": "ember serve",
     "test": "ember test",
-    "ember": "ember" // npm run ember (example: npm run ember generate component name)
+    "ember": "ember"
   },
+```
+
+Example:
+
+```sh
+npm run ember generate component name
 ```
 
 Run:
 
 - npm start
 
-:push_pin: Serving on localhost:4200
-:push_pin: Serving testing on localhost:4200/tests
+:pushpin: Serving on localhost:4200
+
+:pushpin: Serving testing on localhost:4200/tests
 
 ## :computer: Technologies Demonstrated
 
