@@ -151,6 +151,12 @@ View the official guide [here](https://guides.emberjs.com/release/tutorial/part-
 - The Ember Data store
 - Working with adapters and serializers
 
+### Chapter 12
+
+- Using Ember's built-in `<Input>` component
+- The provider component pattern
+- Using block parameters when invoking components
+
 ## :computer: Technologies Demonstrated
 
 - HTML
