@@ -50,7 +50,7 @@ Run:
 
 :pushpin: Serving testing on localhost:4200/tests
 
-## Topics Covered - Tutorial Part One
+## Topics Covered
 
 View the official guide [here](https://guides.emberjs.com/release/tutorial/part-1/).
 
@@ -127,6 +127,29 @@ View the official guide [here](https://guides.emberjs.com/release/tutorial/part-
 - Fetching remote data from the model hook
 - Adapting server data
 - Loops and local variables in templates with `{{#each}}`
+
+### Chapter 9
+
+- Routes with dynamic segments
+- Links with dynamic segments
+- Component tests with access to the router
+- Accessing parameters from dynamic segments
+- Sharing common setup code between tests
+
+### Chapter 10
+
+- Splattributes and the class attribute
+- The router service
+- Ember services vs. global variables
+- Mocking services in tests
+
+### Chapter 11
+
+- Ember Data models
+- Testing models
+- Loading models in routes
+- The Ember Data store
+- Working with adapters and serializers
 
 ## :computer: Technologies Demonstrated
 
